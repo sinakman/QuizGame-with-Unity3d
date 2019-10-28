@@ -1,0 +1,397 @@
+﻿{
+  "allRoundData": [
+    {
+      "name": "Animals",
+      "timeLimitInSeconds": 40,
+      "pointsAddedForCorrectAnswer": 10,
+      "questions": [
+        {
+          "questionText": "Herşey",
+          "answers": [
+            {
+              "answerText": "Doğru",
+              "isCorrect": true
+            },
+            {
+              "answerText": "Yanlış",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionText": "Her gün",
+          "answers": [
+            {
+              "answerText": "Doğru",
+              "isCorrect": false
+            },
+            {
+              "answerText": "Yanlış",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "questionText": "Yanlız",
+          "answers": [
+            {
+              "answerText": "Doğru",
+              "isCorrect": false
+            },
+            {
+              "answerText": "Yanlış",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "questionText": "Herzaman",
+          "answers": [
+            {
+              "answerText": "Doğru",
+              "isCorrect": false
+            },
+            {
+              "answerText": "Yanlış",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "questionText": "Fındık",
+          "answers": [
+            {
+              "answerText": "Doğru",
+              "isCorrect": true
+            },
+            {
+              "answerText": "Yanlış",
+              "isCorrect": false
+            }
+          ]
+        },
+	{
+          "questionText": "Sandık",
+          "answers": [
+            {
+              "answerText": "Doğru",
+              "isCorrect": true
+            },
+            {
+              "answerText": "Yanlış",
+              "isCorrect": false
+            }
+          ]
+        },
+	{
+          "questionText": "Bardak",
+          "answers": [
+            {
+              "answerText": "Doğru",
+              "isCorrect": true
+            },
+            {
+              "answerText": "Yanlış",
+              "isCorrect": false
+            }
+          ]
+        },
+{
+          "questionText": "Fındık",
+          "answers": [
+            {
+              "answerText": "Doğru",
+              "isCorrect": true
+            },
+            {
+              "answerText": "Yanlış",
+              "isCorrect": false
+            }
+          ]
+        },
+{
+          "questionText": "Fındık",
+          "answers": [
+            {
+              "answerText": "Doğru",
+              "isCorrect": true
+            },
+            {
+              "answerText": "Yanlış",
+              "isCorrect": false
+            }
+          ]
+        },
+{
+          "questionText": "Fıstık",
+          "answers": [
+            {
+              "answerText": "Doğru",
+              "isCorrect": true
+            },
+            {
+              "answerText": "Yanlış",
+              "isCorrect": false
+            }
+          ]
+        },{
+          "questionText": "kazık",
+          "answers": [
+            {
+              "answerText": "Doğru",
+              "isCorrect": true
+            },
+            {
+              "answerText": "Yanlış",
+              "isCorrect": false
+            }
+          ]
+        },
+	{
+          "questionText": "Bardak",
+          "answers": [
+            {
+              "answerText": "Doğru",
+              "isCorrect": true
+            },
+            {
+              "answerText": "Yanlış",
+              "isCorrect": false
+            }
+          ]
+        },
+{
+          "questionText": "Fındık",
+          "answers": [
+            {
+              "answerText": "Doğru",
+              "isCorrect": true
+            },
+            {
+              "answerText": "Yanlış",
+              "isCorrect": false
+            }
+          ]
+        },
+{
+          "questionText": "Fındık",
+          "answers": [
+            {
+              "answerText": "Doğru",
+              "isCorrect": true
+            },
+            {
+              "answerText": "Yanlış",
+              "isCorrect": false
+            }
+          ]
+        },
+{
+          "questionText": "Fındık",
+          "answers": [
+            {
+              "answerText": "Doğru",
+              "isCorrect": true
+            },
+            {
+              "answerText": "Yanlış",
+              "isCorrect": false
+            }
+          ]
+        },{
+          "questionText": "Sandık",
+          "answers": [
+            {
+              "answerText": "Doğru",
+              "isCorrect": true
+            },
+            {
+              "answerText": "Yanlış",
+              "isCorrect": false
+            }
+          ]
+        },
+	{
+          "questionText": "Bardak",
+          "answers": [
+            {
+              "answerText": "Doğru",
+              "isCorrect": true
+            },
+            {
+              "answerText": "Yanlış",
+              "isCorrect": false
+            }
+          ]
+        },
+{
+          "questionText": "Fındık",
+          "answers": [
+            {
+              "answerText": "Doğru",
+              "isCorrect": true
+            },
+            {
+              "answerText": "Yanlış",
+              "isCorrect": false
+            }
+          ]
+        },
+{
+          "questionText": "Fındık",
+          "answers": [
+            {
+              "answerText": "Doğru",
+              "isCorrect": true
+            },
+            {
+              "answerText": "Yanlış",
+              "isCorrect": false
+            }
+          ]
+        },
+{
+          "questionText": "Fındık",
+          "answers": [
+            {
+              "answerText": "Doğru",
+              "isCorrect": true
+            },
+            {
+              "answerText": "Yanlış",
+              "isCorrect": false
+            }
+          ]
+        },{
+          "questionText": "Sandık",
+          "answers": [
+            {
+              "answerText": "Doğru",
+              "isCorrect": true
+            },
+            {
+              "answerText": "Yanlış",
+              "isCorrect": false
+            }
+          ]
+        },
+	{
+          "questionText": "garaj",
+          "answers": [
+            {
+              "answerText": "Doğru",
+              "isCorrect": true
+            },
+            {
+              "answerText": "Yanlış",
+              "isCorrect": false
+            }
+          ]
+        },
+{
+          "questionText": "site",
+          "answers": [
+            {
+              "answerText": "Doğru",
+              "isCorrect": true
+            },
+            {
+              "answerText": "Yanlış",
+              "isCorrect": false
+            }
+          ]
+        },
+{
+          "questionText": "zurna",
+          "answers": [
+            {
+              "answerText": "Doğru",
+              "isCorrect": true
+            },
+            {
+              "answerText": "Yanlış",
+              "isCorrect": false
+            }
+          ]
+        },
+{
+          "questionText": "midilli",
+          "answers": [
+            {
+              "answerText": "Doğru",
+              "isCorrect": true
+            },
+            {
+              "answerText": "Yanlış",
+              "isCorrect": false
+            }
+          ]
+        },{
+          "questionText": "zürafa",
+          "answers": [
+            {
+              "answerText": "Doğru",
+              "isCorrect": true
+            },
+            {
+              "answerText": "Yanlış",
+              "isCorrect": false
+            }
+          ]
+        },
+	{
+          "questionText": "zebra",
+          "answers": [
+            {
+              "answerText": "Doğru",
+              "isCorrect": true
+            },
+            {
+              "answerText": "Yanlış",
+              "isCorrect": false
+            }
+          ]
+        },
+{
+          "questionText": "eşek",
+          "answers": [
+            {
+              "answerText": "Doğru",
+              "isCorrect": true
+            },
+            {
+              "answerText": "Yanlış",
+              "isCorrect": false
+            }
+          ]
+        },
+{
+          "questionText": "At",
+          "answers": [
+            {
+              "answerText": "Doğru",
+              "isCorrect": true
+            },
+            {
+              "answerText": "Yanlış",
+              "isCorrect": false
+            }
+          ]
+        },
+{
+          "questionText": "saç",
+          "answers": [
+            {
+              "answerText": "Doğru",
+              "isCorrect": true
+            },
+            {
+              "answerText": "Yanlış",
+              "isCorrect": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
